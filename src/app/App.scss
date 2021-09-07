@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.app-content{
+  max-width: 980px;
+  margin: 20px auto 0;
+  border: 5px solid #ffd800;
+  padding: 20px;
+  box-sizing: border-box;
+}

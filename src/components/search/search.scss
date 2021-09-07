@@ -1,0 +1,27 @@
+.search-box {
+    padding: 20px 20px;
+    margin: 0 auto 40px;
+
+    input {
+        border: 0;
+        color: #3e3a39;
+        padding: 20px 10px;
+        outline: none;
+        background-color: #fff;
+        width: 100%;
+        border: 2px solid #666;
+        box-sizing: border-box;
+    }
+
+    ::placeholder,
+    :-ms-input-placeholder,
+    ::-ms-input-placeholder {
+        color: #3e3a39;
+        opacity: 1;
+    }
+
+    input:focus,
+    select:focus {
+        border-color: #999;
+    }
+}

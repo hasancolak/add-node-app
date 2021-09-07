@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Data Generator",
+    "image": "/icons/p1.jpg",
+    "description": "Source"
+  },
+  {
+    "title": "CASE Switch Data (Start)",
+    "image": "/icons/p2.jpg",
+    "description": "Manipulator"
+  },
+  {
+    "title": "Cluster Assigner",
+    "image": "/icons/p3.jpg",
+    "description": "Predictor"
+  },
+  {
+    "title": "1 Data Generator",
+    "image": "/icons/p1.jpg",
+    "description": "Source"
+  },
+  {
+    "title": "1 CASE Switch Data (Start)",
+    "image": "/icons/p2.jpg",
+    "description": "Manipulator"
+  },
+  {
+    "title": "1 Cluster Assigner",
+    "image": "/icons/p3.jpg",
+    "description": "Predictor"
+  }
+]

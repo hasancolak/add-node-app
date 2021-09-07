@@ -1,0 +1,15 @@
+.node-list{
+    flex-basis: 100%;
+    @media (min-width: 600px) {
+        margin: 10px;
+        flex-basis: calc(33.333% - 20px);
+    }
+    .node-title { 
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+    .node-icon{
+        margin-bottom: 15px;;
+    }
+    .node-description{}
+}
